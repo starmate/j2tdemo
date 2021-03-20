@@ -1,0 +1,7 @@
+{
+    "name": "j2t/demo",
+    "description": "This is J2T demo package",
+    "require": {
+        "php": ">=7.4"
+    }
+}
